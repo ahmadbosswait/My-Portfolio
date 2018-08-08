@@ -167,7 +167,7 @@ main {
     margin: auto;
     border-radius: 50%;
     border: #eece1a 3px solid; 
-  }.bio-image {
+  }.bio-image-2 {
       grid-area: bioimage;
       margin-top: 30%;
       border-radius: 50%;
