@@ -169,7 +169,7 @@ main {
     border: #eece1a 3px solid; 
   }.bio-image-2 {
       grid-area: bioimage;
-      margin-top: 30%;
+      margin: 30% auto auto auto;
       border-radius: 50%;
       border: #eece1a 3px solid; }
   .about-info .bio {
