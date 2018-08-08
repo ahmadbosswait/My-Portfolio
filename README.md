@@ -1,6 +1,6 @@
 # my_portfolio
 This is my modern portfolio. It is responsive.
-Created with raw HTML, CSS and Javascript. not plug-in no bootsrap.
+Created with raw HTML, CSS and Javascript.
 Watch it Live https://ahmadbosswait.github.io/my_portfolio/
 
 ## Screenshot
